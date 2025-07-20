@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #f3e5f5;
+  color: #4a148c;
+}
+h1 {
+  text-align: center;
+  color: #6a1b9a;
+}
+#malla-container {
+  display: flex;
+  overflow-x: auto;
+  gap: 20px;
+  padding-bottom: 10px;
+}
+.semestre {
+  background: #ede7f6;
+  padding: 15px;
+  border-radius: 10px;
+  border: 1px solid #ce93d8;
+  min-width: 250px;
+  flex-shrink: 0;
+}
+.semestre h2 {
+  text-align: center;
+  color: #4a148c;
+}
+.curso {
+  background: #d1c4e9;
+  padding: 8px;
+  margin: 6px 0;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+.curso:hover {
+  background: #b39ddb;
+}
+#info {
+  margin-top: 20px;
+  padding: 15px;
+  background: #f3e5f5;
+  border: 1px solid #ce93d8;
+  border-radius: 8px;
+  white-space: pre-wrap;
+}
