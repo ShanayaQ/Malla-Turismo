@@ -1,0 +1,608 @@
+{
+  "mallaData": [
+    {
+      "año": 1,
+      "periodo": "anual",
+      "materias": []
+    },
+    {
+      "año": 1,
+      "periodo": "Primer Ciclo ",
+      "materias": [
+        {
+          "id": "e34b0eb2-80c8-43fa-a52c-2e74029abca3",
+          "nombre": "Introducción a la hospitalidad",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "42f94a83-1056-4b90-aefe-ee787930f446",
+          "nombre": "Sociología y turismo",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "dce8c6db-3ae2-4cfd-94e3-8c514bbc4221",
+          "nombre": "Informática",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "7eb44a03-c857-4945-8b34-e4044e07667f",
+          "nombre": "Inglés 1",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "f129b672-a0f5-4222-88fb-cd419a46aac3",
+          "nombre": "Matemáticas financieras",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "16437f49-eebe-4bd4-80a9-0b561df0e2a8",
+          "nombre": "Filosofía",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    },
+    {
+      "año": 1,
+      "periodo": "Segundo Ciclo",
+      "materias": [
+        {
+          "id": "9368f3b8-f406-416b-8493-7b46ca28b5f5",
+          "nombre": "Inglés 2",
+          "tipo": "ninguno",
+          "requisitos": [
+            "7eb44a03-c857-4945-8b34-e4044e07667f"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "dca9fb4c-c1da-4296-93ad-d748eabbde4d",
+          "nombre": "Historia del Ecuador y Latinoamérica",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "6966dc73-c1ba-4c40-8bcd-a2dae9fed227",
+          "nombre": "Escritura académica",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "73bb7bf6-0e94-476a-bb86-df19fcff87a4",
+          "nombre": "Geografía y turismo",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "4e3f5d5b-526d-4ab5-88cf-ae4d851734df",
+          "nombre": "Cultura del servicio",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "62186141-0bd8-4ffe-81c3-be7de906bdc6",
+          "nombre": "Estadística descriptiva",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    },
+    {
+      "año": 2,
+      "periodo": "anual",
+      "materias": []
+    },
+    {
+      "año": 2,
+      "periodo": "Tercer Ciclo",
+      "materias": [
+        {
+          "id": "6e781a19-4c34-4de4-aac2-9cfe9fd5e5e8",
+          "nombre": "Inglés 3",
+          "tipo": "ninguno",
+          "requisitos": [
+            "9368f3b8-f406-416b-8493-7b46ca28b5f5"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "454f1c74-9594-4b69-a07f-056ee9427211",
+          "nombre": "Estadística inferencial",
+          "tipo": "ninguno",
+          "requisitos": [
+            "62186141-0bd8-4ffe-81c3-be7de906bdc6"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "a2946323-3b84-412a-bcca-33d28a29a0aa",
+          "nombre": "Patrimonio cultural del Ecuador",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "b7445133-8a50-4a66-8518-d9d29addd4a0",
+          "nombre": "Patrimonio natural del Ecuador",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "11f183ba-c08b-4a71-9578-aa6d9c69ddaf",
+          "nombre": "Relaciones públicas y protocolo",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "4c3af233-7ece-457d-a821-78a7fd40df58",
+          "nombre": "Gestión sostenible y turismo",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    },
+    {
+      "año": 2,
+      "periodo": "Cuarto Ciclo",
+      "materias": [
+        {
+          "id": "b6cb5600-5fe8-4199-868a-5ad62bf36fcc",
+          "nombre": "Inglés 4",
+          "tipo": "ninguno",
+          "requisitos": [
+            "6e781a19-4c34-4de4-aac2-9cfe9fd5e5e8"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "a191ae6f-e857-4275-8009-c0b63c312af1",
+          "nombre": "Investigación aplicada al turismo",
+          "tipo": "ninguno",
+          "requisitos": [
+            "454f1c74-9594-4b69-a07f-056ee9427211"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "f587fafc-3755-42c4-a5ec-86e311d92110",
+          "nombre": "Práctica laboral 1",
+          "tipo": "ninguno",
+          "requisitos": [
+            "11f183ba-c08b-4a71-9578-aa6d9c69ddaf"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "fceb565d-4050-4ca7-971a-5d611dde6f46",
+          "nombre": "Administración de empresas turísticas",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "c444d4bf-aeed-43d3-b715-9d9f541ca94c",
+          "nombre": "Legislación empresarial",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "e996952c-379b-4838-a461-b05d08d04fb4",
+          "nombre": "Contabilidad",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    },
+    {
+      "año": 3,
+      "periodo": "anual",
+      "materias": []
+    },
+    {
+      "año": 3,
+      "periodo": "Quinto Ciclo",
+      "materias": [
+        {
+          "id": "a79727fa-b4c5-4107-95e1-b386ea7f4b91",
+          "nombre": "Inglés 5",
+          "tipo": "ninguno",
+          "requisitos": [
+            "b6cb5600-5fe8-4199-868a-5ad62bf36fcc"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "e0058d76-29b7-4608-a944-4a047b72d40b",
+          "nombre": "Marketing e investigación de mercados turísticos",
+          "tipo": "ninguno",
+          "requisitos": [
+            "a191ae6f-e857-4275-8009-c0b63c312af1"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "9dd35ec5-ca32-4fd3-b4a5-141dfab8605d",
+          "nombre": "Intermediación turística",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "f6db88ec-b08d-4f26-b50a-323da133c5e0",
+          "nombre": "Sistemas de calidad aplicados al turismo",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "fb4e95c7-827e-40bd-9547-892553f5ca14",
+          "nombre": "Economía y turismo",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "ecfaabcc-0c17-4958-886f-113b2cbcb841",
+          "nombre": "Legislación ambiental y turística",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    },
+    {
+      "año": 3,
+      "periodo": "Sexto Ciclo",
+      "materias": [
+        {
+          "id": "248fb8da-6ab5-446d-b6a4-5cf54f66ab8f",
+          "nombre": "Inglés 6",
+          "tipo": "ninguno",
+          "requisitos": [
+            "a79727fa-b4c5-4107-95e1-b386ea7f4b91"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "fdd30576-2474-4090-b558-c7a6e1a276df",
+          "nombre": "Etnografía folklore y saberes ancestrales",
+          "tipo": "ninguno",
+          "requisitos": [
+            "e34b0eb2-80c8-43fa-a52c-2e74029abca3",
+            "dce8c6db-3ae2-4cfd-94e3-8c514bbc4221",
+            "42f94a83-1056-4b90-aefe-ee787930f446",
+            "7eb44a03-c857-4945-8b34-e4044e07667f",
+            "f129b672-a0f5-4222-88fb-cd419a46aac3",
+            "16437f49-eebe-4bd4-80a9-0b561df0e2a8",
+            "9368f3b8-f406-416b-8493-7b46ca28b5f5",
+            "dca9fb4c-c1da-4296-93ad-d748eabbde4d",
+            "6966dc73-c1ba-4c40-8bcd-a2dae9fed227",
+            "73bb7bf6-0e94-476a-bb86-df19fcff87a4",
+            "4e3f5d5b-526d-4ab5-88cf-ae4d851734df",
+            "62186141-0bd8-4ffe-81c3-be7de906bdc6",
+            "6e781a19-4c34-4de4-aac2-9cfe9fd5e5e8",
+            "454f1c74-9594-4b69-a07f-056ee9427211",
+            "a2946323-3b84-412a-bcca-33d28a29a0aa",
+            "b7445133-8a50-4a66-8518-d9d29addd4a0",
+            "11f183ba-c08b-4a71-9578-aa6d9c69ddaf",
+            "4c3af233-7ece-457d-a821-78a7fd40df58",
+            "b6cb5600-5fe8-4199-868a-5ad62bf36fcc",
+            "a191ae6f-e857-4275-8009-c0b63c312af1",
+            "f587fafc-3755-42c4-a5ec-86e311d92110",
+            "a79727fa-b4c5-4107-95e1-b386ea7f4b91",
+            "fceb565d-4050-4ca7-971a-5d611dde6f46",
+            "c444d4bf-aeed-43d3-b715-9d9f541ca94c",
+            "e996952c-379b-4838-a461-b05d08d04fb4",
+            "e0058d76-29b7-4608-a944-4a047b72d40b",
+            "9dd35ec5-ca32-4fd3-b4a5-141dfab8605d",
+            "f6db88ec-b08d-4f26-b50a-323da133c5e0",
+            "fb4e95c7-827e-40bd-9547-892553f5ca14",
+            "ecfaabcc-0c17-4958-886f-113b2cbcb841"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "206d6178-17d6-46fe-910d-69470950d84e",
+          "nombre": "Ordenamiento territorial",
+          "tipo": "ninguno",
+          "requisitos": [
+            "ecfaabcc-0c17-4958-886f-113b2cbcb841"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "82e764da-ffec-4c1e-aed4-edf297ea1e24",
+          "nombre": "Operación turística y turismo",
+          "tipo": "ninguno",
+          "requisitos": [
+            "9dd35ec5-ca32-4fd3-b4a5-141dfab8605d"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "b1d835f0-535e-454a-8325-9e43171be5f8",
+          "nombre": "Finanzas",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "ee049cda-5cd8-400b-b1d0-904aa34fa8ae",
+          "nombre": "Liderazgo y negociación",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    },
+    {
+      "año": 4,
+      "periodo": "anual",
+      "materias": []
+    },
+    {
+      "año": 4,
+      "periodo": "Séptimo Ciclo",
+      "materias": [
+        {
+          "id": "1052e0ab-e5c8-40c7-8b3b-b75950953efb",
+          "nombre": "Ciudad y turismo",
+          "tipo": "ninguno",
+          "requisitos": [
+            "fdd30576-2474-4090-b558-c7a6e1a276df"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "b389d9ac-c56f-4aee-99db-b6dc5dcefaf3",
+          "nombre": "Práctica laboral 2",
+          "tipo": "ninguno",
+          "requisitos": [
+            "f587fafc-3755-42c4-a5ec-86e311d92110"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "ee39146e-541e-47af-8f2a-b1e23c5e7dfc",
+          "nombre": "Inglés 7",
+          "tipo": "ninguno",
+          "requisitos": [
+            "248fb8da-6ab5-446d-b6a4-5cf54f66ab8f"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "c46f1f50-8299-4210-94a1-a9583463706b",
+          "nombre": "Planificación turística",
+          "tipo": "ninguno",
+          "requisitos": [
+            "206d6178-17d6-46fe-910d-69470950d84e"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "0360a4d6-ce56-49bf-a73a-eaec46797534",
+          "nombre": "Gestión pública del turismo",
+          "tipo": "ninguno",
+          "requisitos": [
+            "c444d4bf-aeed-43d3-b715-9d9f541ca94c",
+            "ecfaabcc-0c17-4958-886f-113b2cbcb841"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "5eada68d-cb2c-4a14-b221-2c3c875b30fd",
+          "nombre": "Práctica servicio comunitario 1",
+          "tipo": "ninguno",
+          "requisitos": [
+            "fdd30576-2474-4090-b558-c7a6e1a276df"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "0228ad2e-4111-4349-b1c1-0b0f135ca825",
+          "nombre": "Diseño de trabajo de integración curricular de trabajo",
+          "tipo": "ninguno",
+          "requisitos": [
+            "e34b0eb2-80c8-43fa-a52c-2e74029abca3",
+            "42f94a83-1056-4b90-aefe-ee787930f446",
+            "dce8c6db-3ae2-4cfd-94e3-8c514bbc4221",
+            "7eb44a03-c857-4945-8b34-e4044e07667f",
+            "f129b672-a0f5-4222-88fb-cd419a46aac3",
+            "16437f49-eebe-4bd4-80a9-0b561df0e2a8",
+            "9368f3b8-f406-416b-8493-7b46ca28b5f5",
+            "dca9fb4c-c1da-4296-93ad-d748eabbde4d",
+            "6966dc73-c1ba-4c40-8bcd-a2dae9fed227",
+            "73bb7bf6-0e94-476a-bb86-df19fcff87a4",
+            "4e3f5d5b-526d-4ab5-88cf-ae4d851734df",
+            "62186141-0bd8-4ffe-81c3-be7de906bdc6",
+            "6e781a19-4c34-4de4-aac2-9cfe9fd5e5e8",
+            "454f1c74-9594-4b69-a07f-056ee9427211",
+            "a2946323-3b84-412a-bcca-33d28a29a0aa",
+            "b7445133-8a50-4a66-8518-d9d29addd4a0",
+            "11f183ba-c08b-4a71-9578-aa6d9c69ddaf",
+            "b6cb5600-5fe8-4199-868a-5ad62bf36fcc",
+            "a191ae6f-e857-4275-8009-c0b63c312af1",
+            "f587fafc-3755-42c4-a5ec-86e311d92110",
+            "fceb565d-4050-4ca7-971a-5d611dde6f46",
+            "c444d4bf-aeed-43d3-b715-9d9f541ca94c",
+            "a79727fa-b4c5-4107-95e1-b386ea7f4b91",
+            "e996952c-379b-4838-a461-b05d08d04fb4",
+            "e0058d76-29b7-4608-a944-4a047b72d40b",
+            "9dd35ec5-ca32-4fd3-b4a5-141dfab8605d",
+            "f6db88ec-b08d-4f26-b50a-323da133c5e0",
+            "fb4e95c7-827e-40bd-9547-892553f5ca14",
+            "ecfaabcc-0c17-4958-886f-113b2cbcb841",
+            "248fb8da-6ab5-446d-b6a4-5cf54f66ab8f",
+            "fdd30576-2474-4090-b558-c7a6e1a276df",
+            "206d6178-17d6-46fe-910d-69470950d84e",
+            "82e764da-ffec-4c1e-aed4-edf297ea1e24",
+            "b1d835f0-535e-454a-8325-9e43171be5f8",
+            "ee049cda-5cd8-400b-b1d0-904aa34fa8ae"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    },
+    {
+      "año": 4,
+      "periodo": "Octavo Ciclo",
+      "materias": [
+        {
+          "id": "931dcbfe-0b4d-4523-b1e8-41d7de6af7f9",
+          "nombre": "Proyectos turísticos y emprendimiento",
+          "tipo": "ninguno",
+          "requisitos": [
+            "c46f1f50-8299-4210-94a1-a9583463706b",
+            "b1d835f0-535e-454a-8325-9e43171be5f8"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "f57d3154-c3f7-4b4a-bff1-2164c33fd476",
+          "nombre": "Inglés 8",
+          "tipo": "ninguno",
+          "requisitos": [
+            "ee39146e-541e-47af-8f2a-b1e23c5e7dfc"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "3a624e1b-f831-4ec3-98a5-8b9f41f0eedf",
+          "nombre": "Práctica servicio comunitario 2",
+          "tipo": "ninguno",
+          "requisitos": [
+            "5eada68d-cb2c-4a14-b221-2c3c875b30fd"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "e5aebef9-f2fe-4a64-830c-bb8cacdbe409",
+          "nombre": "Industrias culturales y MICE",
+          "tipo": "ninguno",
+          "requisitos": [
+            "1052e0ab-e5c8-40c7-8b3b-b75950953efb"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "b9799503-dafe-44ee-8636-b436fbe8b96d",
+          "nombre": "Integración curricular: trabajo de integración curricular",
+          "tipo": "ninguno",
+          "requisitos": [
+            "0228ad2e-4111-4349-b1c1-0b0f135ca825"
+          ],
+          "creditos": 0,
+          "requiereCreditos": 0
+        },
+        {
+          "id": "5bc3cae6-cfc6-4f13-bef8-247df0d2bfad",
+          "nombre": "Etica",
+          "tipo": "ninguno",
+          "requisitos": [],
+          "creditos": 0,
+          "requiereCreditos": 0
+        }
+      ]
+    }
+  ],
+  "estructuraPorAnio": [
+    {
+      "tipo": "semestral",
+      "periodos": [
+        "Primer Ciclo ",
+        "Segundo Ciclo"
+      ]
+    },
+    {
+      "tipo": "semestral",
+      "periodos": [
+        "Tercer Ciclo",
+        "Cuarto Ciclo"
+      ]
+    },
+    {
+      "tipo": "semestral",
+      "periodos": [
+        "Quinto Ciclo",
+        "Sexto Ciclo"
+      ]
+    },
+    {
+      "tipo": "semestral",
+      "periodos": [
+        "Séptimo Ciclo",
+        "Octavo Ciclo"
+      ]
+    }
+  ],
+  "cantidadAnios": 4
+}
